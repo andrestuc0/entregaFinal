@@ -1,0 +1,12 @@
+{
+    "products": [
+      { "id": 1, "nombre": "Remera Goku", "precio": 1000, "img": "./img/remeras/remera-goku.webp", "categoria": "remeras" },
+      { "id": 2, "nombre": "Remera Negra", "precio": 800, "img": "./img/remeras/remera-negra.webp", "categoria": "remeras" },
+      { "id": 3, "nombre": "Remera Blanca", "precio": 800, "img": "./img/remeras/remera-blanca.webp", "categoria": "remeras" },
+      { "id": 4, "nombre": "Remera Paz", "precio": 900, "img": "./img/remeras/remera-paz.webp", "categoria": "remeras" },
+      { "id": 5, "nombre": "Zapatillas Rojas", "precio": 2000, "img": "./img/zapatillas/zapa-1.webp", "categoria": "zapatillas" },
+      { "id": 6, "nombre": "Zapatillas Azules", "precio": 2200, "img": "./img/zapatillas/zapa-2.webp", "categoria": "zapatillas" },
+      { "id": 7, "nombre": "Zapatillas Verdes", "precio": 1800, "img": "./img/zapatillas/zapa-3.webp", "categoria": "zapatillas" },
+      { "id": 8, "nombre": "Zapatillas Negras", "precio": 2500, "img": "./img/zapatillas/zapa-4.webp", "categoria": "zapatillas" }
+    ]
+  }
